@@ -1,0 +1,13 @@
+{
+  "name": "PublAI",
+  "palette": {
+    "primary": "#61BA5E",
+    "primaryLight": "#7DD47A",
+    "dark": "#1A1A1A",
+    "darker": "#0D0D0D",
+    "text": "#FFFFFF",
+    "muted": "#888888",
+    "accent": "#4A9A48"
+  },
+  "description": "PublAI brand colors for pixel art status line animations"
+}
